@@ -28,4 +28,4 @@
 
 - Berke Musellim
 - Enescu Irinia Stefania
-- Alex Potanga
+- Alexandru Alin Potanga
