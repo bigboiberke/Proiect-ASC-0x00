@@ -22,7 +22,7 @@
 
 ## Partea 2
 
-> Cheia descoperita este **7vNEk54ipV7vNEl'vz9V7vNEk54ipV7vNEl*{3pV7vNE**. Echipa adversa avand un input de doar 45 de bytes (caractere), rezultatul la care am ajuns in urma investigarii parolei este una ciudata, parola avand aceeasi numar de caractere ca si inputul.
+> Cheia descoperita este __7vNEk54ipV7vNEl'vz9V7vNEk54ipV7vNEl*{3pV7vNE__ . Echipa adversa avand un input de doar 45 de bytes (caractere), rezultatul la care am ajuns in urma investigarii parolei este una ciudata, parola avand aceeasi numar de caractere ca si inputul.
 
 ### Participanti:
 
