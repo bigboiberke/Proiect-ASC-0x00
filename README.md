@@ -27,5 +27,5 @@
 ### Participanti:
 
 - Berke Musellim
-- Enescu Irinia Stefania
+- Enescu Irina Stefania
 - Alexandru Alin Potanga
