@@ -1,7 +1,5 @@
 # Proiect-ASC-0x00
 
-# Criptare si Decriptare 
-
 ## Partea 1
 
 
